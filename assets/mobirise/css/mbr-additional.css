@@ -819,8 +819,8 @@ a {
   width: 100%;
 }
 .cid-s8zF5lWFAb {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   position: relative;
   background-color: #ffffff;
 }
@@ -849,6 +849,8 @@ a {
   color: #22a5e5;
 }
 .cid-s8AoHPTsmQ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-s8AoHPTsmQ .number-wrap {
